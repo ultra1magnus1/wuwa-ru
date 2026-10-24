@@ -1,6 +1,6 @@
 {
   "format": "wuwa-ru-launcher-v1",
-  "updated": "2026-10-25T00:18:26",
+  "updated": "2026-10-25T00:21:59",
   "translation": {
     "name": "RU | 3.7.0.3",
     "version": "3.7.0.3",
@@ -440,5 +440,14 @@
       "size": 61523435,
       "url": "https://github.com/ultra1magnus1/wuwa-ru/releases/download/tr-20261025-001806-8206/fmodel.zip"
     }
-  }
+  },
+  "art": [
+    {
+      "sha256": "3c40cc8379c43be3ec4e09f17c53468224b74cf19d14644172d9c3defeaf37d5",
+      "size": 880550,
+      "path": "art/3c40cc8379c43be3.jpg",
+      "align": "auto",
+      "url": "https://raw.githubusercontent.com/ultra1magnus1/wuwa-ru/main/art/3c40cc8379c43be3.jpg"
+    }
+  ]
 }
