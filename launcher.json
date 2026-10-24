@@ -1,17 +1,17 @@
 {
   "format": "wuwa-ru-launcher-v1",
-  "updated": "2026-10-25T00:21:59",
+  "updated": "2026-10-25T01:17:10",
   "translation": {
     "name": "RU | 3.7.0.3",
-    "version": "3.7.0.3",
-    "credits": "Overlink",
+    "version": "3.7.0.3 (1.0.0)",
+    "credits": "",
     "lines": 285010,
     "font": true,
     "packages": [
       {
-        "sha256": "5fa4692bf34fa908ad4c8a299b0aae0c4107bcd7067f1a9ec7a791e3b8a1a6b1",
+        "sha256": "9c52ffb4c9c41e995b1a5e50bbdbe683949c7fe84a18902b4db16074336fd049",
         "size": 78597815,
-        "sha1": "87595F9047465EB034C70FEDD571C9C4DE83AC74",
+        "sha1": "AC9F679F285251B987E3C0B98D9D099E774B2D55",
         "fingerprint": {
           "resource_version": "3.7.0",
           "base": [
@@ -427,13 +427,13 @@
             ]
           ]
         },
-        "url": "https://github.com/ultra1magnus1/wuwa-ru/releases/download/tr-20261025-001806-8206/translation.pak"
+        "url": "https://github.com/ultra1magnus1/wuwa-ru/releases/download/tr-20261025-011659-228f/translation.pak"
       }
     ],
     "translations": {
-      "sha256": "645124b4440b7b0104aca06a26c7dbf8ce959cd068e7bccf884295a9c8a70a32",
-      "size": 20254810,
-      "url": "https://github.com/ultra1magnus1/wuwa-ru/releases/download/tr-20261025-001806-8206/translations.json.gz"
+      "sha256": "a8a0b6588eb7c2176945faa4791333032504514a4e33240c608c57dc2e3e8874",
+      "size": 20254823,
+      "url": "https://github.com/ultra1magnus1/wuwa-ru/releases/download/tr-20261025-011659-228f/translations.json.gz"
     },
     "fmodel": {
       "sha256": "5722dcdb91db4eabf0b16a48f406a80cc2fb8f87a299ccf6ba58d4ff3ba77523",
