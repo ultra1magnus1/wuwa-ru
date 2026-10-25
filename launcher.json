@@ -1,17 +1,17 @@
 {
   "format": "wuwa-ru-launcher-v1",
-  "updated": "2026-10-25T01:17:10",
+  "updated": "2026-10-25T18:55:33",
   "translation": {
-    "name": "RU | 3.7.0.3",
-    "version": "3.7.0.3 (1.0.0)",
+    "name": "RU | 3.7.0.3 (1.0.1)",
+    "version": "3.7.0.3",
     "credits": "",
     "lines": 285010,
     "font": true,
     "packages": [
       {
-        "sha256": "9c52ffb4c9c41e995b1a5e50bbdbe683949c7fe84a18902b4db16074336fd049",
+        "sha256": "9b282f0fb8f6af7c848a3f3275e99e1f9562430b7248a7c510dcb207f2fb6f10",
         "size": 78597815,
-        "sha1": "AC9F679F285251B987E3C0B98D9D099E774B2D55",
+        "sha1": "0A3C27B2ADD71843ADE3C7169EC5F491A443C907",
         "fingerprint": {
           "resource_version": "3.7.0",
           "base": [
@@ -427,13 +427,13 @@
             ]
           ]
         },
-        "url": "https://github.com/ultra1magnus1/wuwa-ru/releases/download/tr-20261025-011659-228f/translation.pak"
+        "url": "https://github.com/ultra1magnus1/wuwa-ru/releases/download/tr-20261025-185518-3d3b/translation.pak"
       }
     ],
     "translations": {
-      "sha256": "a8a0b6588eb7c2176945faa4791333032504514a4e33240c608c57dc2e3e8874",
-      "size": 20254823,
-      "url": "https://github.com/ultra1magnus1/wuwa-ru/releases/download/tr-20261025-011659-228f/translations.json.gz"
+      "sha256": "80ce810ed961a983ef9e21f80290fda96ceaecb12cc0ce190e80e3ee8dddb691",
+      "size": 20254808,
+      "url": "https://github.com/ultra1magnus1/wuwa-ru/releases/download/tr-20261025-185518-3d3b/translations.json.gz"
     },
     "fmodel": {
       "sha256": "5722dcdb91db4eabf0b16a48f406a80cc2fb8f87a299ccf6ba58d4ff3ba77523",
@@ -449,5 +449,6 @@
       "align": "auto",
       "url": "https://raw.githubusercontent.com/ultra1magnus1/wuwa-ru/main/art/3c40cc8379c43be3.jpg"
     }
-  ]
+  ],
+  "serial": 1
 }
