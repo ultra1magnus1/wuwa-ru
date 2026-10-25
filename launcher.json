@@ -1,6 +1,6 @@
 {
   "format": "wuwa-ru-launcher-v1",
-  "updated": "2026-10-25T18:55:33",
+  "updated": "2026-10-25T22:21:45",
   "translation": {
     "name": "RU | 3.7.0.3 (1.0.1)",
     "version": "3.7.0.3",
@@ -450,5 +450,11 @@
       "url": "https://raw.githubusercontent.com/ultra1magnus1/wuwa-ru/main/art/3c40cc8379c43be3.jpg"
     }
   ],
-  "serial": 1
+  "serial": 2,
+  "launcher": {
+    "sha256": "33b24b8c7acee9e7d5c9ce773cfb5b9fd1545e9e00431b05519236be6f5deb39",
+    "size": 45561486,
+    "version": "1.1.0",
+    "url": "https://github.com/ultra1magnus1/wuwa-ru/releases/download/launcher-1.1.0/WuWaRU-Launcher.exe"
+  }
 }
