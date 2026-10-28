@@ -1,17 +1,17 @@
 {
   "format": "wuwa-ru-launcher-v1",
-  "updated": "2026-10-27T23:37:38",
+  "updated": "2026-10-29T00:45:18",
   "translation": {
-    "name": "RU | 3.7.0.3 (1.0.1)",
-    "version": "3.7.0.3",
+    "name": "RU | 3.7.16 (1.0.2)",
+    "version": "3.7.16 (1.0.2)",
     "credits": "",
     "lines": 285010,
     "font": true,
     "packages": [
       {
-        "sha256": "9b282f0fb8f6af7c848a3f3275e99e1f9562430b7248a7c510dcb207f2fb6f10",
-        "size": 78597815,
-        "sha1": "0A3C27B2ADD71843ADE3C7169EC5F491A443C907",
+        "sha256": "5bfe9717333a3ee77806787ad1f28621b1e753458ef0afcdea27c2fd850a0da7",
+        "size": 78769847,
+        "sha1": "FA43A9FD1EFF08D1DEB4D902DF13B122E1BD6F2B",
         "fingerprint": {
           "resource_version": "3.7.0",
           "base": [
@@ -238,202 +238,198 @@
           ],
           "patches": [
             [
-              "Resource/3.7.16/pakchunk0-WindowsNoEditor_P",
+              "Resource/3.7.17/pakchunk0-WindowsNoEditor_P",
               "78A98E1B8457B897AA25C054E13B50817AE8AE66"
             ],
             [
-              "Resource/3.7.16/pakchunk101-WindowsNoEditor_P",
-              "79B4EE819876CEE2575146980E5080AA922A0C9A"
+              "Resource/3.7.17/pakchunk101-WindowsNoEditor_P",
+              "64BAC448F099914DC4575F002BC1A3EA2B3F7FC1"
             ],
             [
-              "Resource/3.7.16/pakchunk102-WindowsNoEditor_P",
-              "17798E9D45D1F58176061E64D748AFCDE7D98CD0"
+              "Resource/3.7.17/pakchunk102-WindowsNoEditor_P",
+              "C7F4877B860D53CB3FBD578100BF54F40159D322"
             ],
             [
-              "Resource/3.7.16/pakchunk103-WindowsNoEditor_P",
-              "608B732919807761184D1E9B6F018E6CADCF3836"
+              "Resource/3.7.17/pakchunk103-WindowsNoEditor_P",
+              "6F561C719B188F27AC70ED8531A825FDA3FA0B82"
             ],
             [
-              "Resource/3.7.16/pakchunk104-WindowsNoEditor_P",
-              "4D20C010B29149D059DD706EFDFA3A48EEDC93BA"
+              "Resource/3.7.17/pakchunk104-WindowsNoEditor_P",
+              "5C3D0D011F0D0F13E7A767EBF536F573EC281705"
             ],
             [
-              "Resource/3.7.16/pakchunk105-WindowsNoEditor_P",
-              "9ADA0AAC60160DC68827B5220BBD811B0B552BA3"
+              "Resource/3.7.17/pakchunk105-WindowsNoEditor_P",
+              "66F598A0CD76E4A6BDD6BADD83FE9CE5CB96475E"
             ],
             [
-              "Resource/3.7.16/pakchunk107-WindowsNoEditor_P",
-              "2B3500B8FCF60AE3AA3E2D828D87CC4C2A2F3A08"
+              "Resource/3.7.17/pakchunk107-WindowsNoEditor_P",
+              "0FBE233516FB6A4A47D6A92EE510E97967390BAF"
             ],
             [
-              "Resource/3.7.16/pakchunk110-WindowsNoEditor_P",
-              "6EF37D4E3407F6996F6BF022FF71CC9FD3AAC3F3"
+              "Resource/3.7.17/pakchunk110-WindowsNoEditor_P",
+              "58E660AEDE6576F1A8F75A21BA655D7FDB5F1A73"
             ],
             [
-              "Resource/3.7.16/pakchunk111-WindowsNoEditor_P",
-              "A50043CDB86B6F2330308E8BA3ADE9ACA18CD951"
+              "Resource/3.7.17/pakchunk111-WindowsNoEditor_P",
+              "D468F7C55C3F0764CA8A442B32D5FB25C77DDEBD"
             ],
             [
-              "Resource/3.7.16/pakchunk113-WindowsNoEditor_P",
-              "4650FAA3516A7BFFB6FBC1FF3558B565F841D53A"
+              "Resource/3.7.17/pakchunk113-WindowsNoEditor_P",
+              "3F851D743FA6996B760D60449BF15A1BA86789BC"
             ],
             [
-              "Resource/3.7.16/pakchunk18-WindowsNoEditor_P",
-              "DB285C1F24911AA3C113F91B45DB9804490EA4F2"
+              "Resource/3.7.17/pakchunk18-WindowsNoEditor_P",
+              "A69690EF523C70EF7074303FC2D24E9567006247"
             ],
             [
-              "Resource/3.7.16/pakchunk2-WindowsNoEditor_P",
-              "5E5C781406577A6A30BD8FD053203537163248CD"
+              "Resource/3.7.17/pakchunk2-WindowsNoEditor_P",
+              "7E9955DAAA4FCA959470D7E587894EEA1E7C38C7"
             ],
             [
-              "Resource/3.7.16/pakchunk20-WindowsNoEditor_P",
-              "D9DC24216487A3D4D3289AD103D489DED2A9B5C2"
+              "Resource/3.7.17/pakchunk20-WindowsNoEditor_P",
+              "3096D32535D835AA21C7172110420D23853C103F"
             ],
             [
-              "Resource/3.7.16/pakchunk21-WindowsNoEditor_P",
-              "F1BF299219155F671C7CF460628BFA80ABE98BC6"
+              "Resource/3.7.17/pakchunk21-WindowsNoEditor_P",
+              "D4BDD912775391265ED600A1601CB77BB1C4B061"
             ],
             [
-              "Resource/3.7.16/pakchunk22-WindowsNoEditor_P",
-              "E5DE5126AF73EF284F20FEC209E1FA249C099ABD"
+              "Resource/3.7.17/pakchunk22-WindowsNoEditor_P",
+              "0787832697C82F8EAA57A30E50D5C4037E9F7364"
             ],
             [
-              "Resource/3.7.16/pakchunk23-WindowsNoEditor_P",
-              "328BDAF6027FE705E807342423C75514A3280A68"
+              "Resource/3.7.17/pakchunk23-WindowsNoEditor_P",
+              "B78E1B96330F3A43E41AC4694A87FD82B238025A"
             ],
             [
-              "Resource/3.7.16/pakchunk3-WindowsNoEditor_P",
-              "A134F4C2C2F2BE31B42106CBDEF0B5FDE5D731C8"
+              "Resource/3.7.17/pakchunk3-WindowsNoEditor_P",
+              "FAF5755223AB7F8EA3FCD00D0E1800734A3C7139"
             ],
             [
-              "Resource/3.7.16/pakchunk31-WindowsNoEditor_P",
-              "1C46C59400BAE2FBBB967E9AE2D99A4B50F65398"
+              "Resource/3.7.17/pakchunk31-WindowsNoEditor_P",
+              "9FFAAFFC8CBAD589870B173977861815DFCB02F7"
             ],
             [
-              "Resource/3.7.16/pakchunk33-WindowsNoEditor_P",
+              "Resource/3.7.17/pakchunk33-WindowsNoEditor_P",
               "1718143803C475564F9FC1A75E2435FECDB3A710"
             ],
             [
-              "Resource/3.7.16/pakchunk34-WindowsNoEditor_P",
-              "3C7561C57C18EB5F031A2C36BB49AB36487007BE"
+              "Resource/3.7.17/pakchunk34-WindowsNoEditor_P",
+              "B37035D6894A23502F78987F18A2BBDD3931D97E"
             ],
             [
-              "Resource/3.7.16/pakchunk35-WindowsNoEditor_P",
-              "287662967B43D885D1B6B85D8956286D9269B27E"
-            ],
-            [
-              "Resource/3.7.16/pakchunk39-WindowsNoEditor_P",
+              "Resource/3.7.17/pakchunk39-WindowsNoEditor_P",
               "B2A5F4C9EE7A09970A3547888C81A0305009A47E"
             ],
             [
-              "Resource/3.7.16/pakchunk4-WindowsNoEditor_P",
-              "A18044D12E94DBD35BF0C67957B28FD382FD9A92"
+              "Resource/3.7.17/pakchunk4-WindowsNoEditor_P",
+              "BE35C3EA2597A47799898AA87A9523167CB2F0DE"
             ],
             [
-              "Resource/3.7.16/pakchunk40-WindowsNoEditor_P",
-              "12F4CC24FBF5EF2CAA0F37B7C3CD360731CE5C85"
+              "Resource/3.7.17/pakchunk40-WindowsNoEditor_P",
+              "F2CEF52A94103975461E59B2AB42CD1998A0B995"
             ],
             [
-              "Resource/3.7.16/pakchunk41-WindowsNoEditor_P",
+              "Resource/3.7.17/pakchunk41-WindowsNoEditor_P",
               "4513CED611C73A9D57BDE5906811E4CA4BA014BE"
             ],
             [
-              "Resource/3.7.16/pakchunk42-WindowsNoEditor_P",
-              "7E3CD8E50CC8C7C1BE65C65891C2C976BEED42CE"
+              "Resource/3.7.17/pakchunk42-WindowsNoEditor_P",
+              "C6B73E0F79A93075EEAF7EA782707ABBA675D3A8"
             ],
             [
-              "Resource/3.7.16/pakchunk43-WindowsNoEditor_P",
-              "E288D665C45C24DB02DB1E0A311CE32E7477732E"
+              "Resource/3.7.17/pakchunk43-WindowsNoEditor_P",
+              "2E185153A15E02AAD857E04DAC5E98E1AA586E35"
             ],
             [
-              "Resource/3.7.16/pakchunk44-WindowsNoEditor_P",
-              "8F1754FCE1D695B83660D2BFA4C2F218FA62A2BF"
+              "Resource/3.7.17/pakchunk44-WindowsNoEditor_P",
+              "98380D6E06B151F78D16C3DC9872950D18F612AB"
             ],
             [
-              "Resource/3.7.16/pakchunk45-WindowsNoEditor_P",
+              "Resource/3.7.17/pakchunk45-WindowsNoEditor_P",
               "E4CEB6E77ECEF93AB26B235603171E5CA8F2F32A"
             ],
             [
-              "Resource/3.7.16/pakchunk46-WindowsNoEditor_P",
+              "Resource/3.7.17/pakchunk46-WindowsNoEditor_P",
               "35062D3D3607D2BBB4E96832F10C039DAFC6882D"
             ],
             [
-              "Resource/3.7.16/pakchunk47-WindowsNoEditor_P",
-              "754B5EF532635C851CE05112E0A941E00A69FA27"
+              "Resource/3.7.17/pakchunk47-WindowsNoEditor_P",
+              "CAC73140AB991F7948BD1CC3EB6E5A8B72D04639"
             ],
             [
-              "Resource/3.7.16/pakchunk48-WindowsNoEditor_P",
-              "9B15834BF2B08F4785F0A57DDEBC3A1AB1AE41AD"
+              "Resource/3.7.17/pakchunk48-WindowsNoEditor_P",
+              "0E9773156B76F27A44BFC442D43D4BD0C3B7A0A7"
             ],
             [
-              "Resource/3.7.16/pakchunk49-WindowsNoEditor_P",
-              "41207A8CAE536A4231731D6C0487EA02FC89602A"
+              "Resource/3.7.17/pakchunk49-WindowsNoEditor_P",
+              "E69EAB67295C581228F0397A3DD07B6092753989"
             ],
             [
-              "Resource/3.7.16/pakchunk5-WindowsNoEditor_P",
-              "D7A28B220208581C521CF820CF0775317DC2DF7A"
+              "Resource/3.7.17/pakchunk5-WindowsNoEditor_P",
+              "F480F57480A770C831C62FC45A2C06F86AADAE52"
             ],
             [
-              "Resource/3.7.16/pakchunk50-WindowsNoEditor_P",
-              "B6E4A8DE72D9006D99C83A6F8AC4F635A65277D3"
+              "Resource/3.7.17/pakchunk50-WindowsNoEditor_P",
+              "FE8F90C30080A251A46AC11DA2871322AF968286"
             ],
             [
-              "Resource/3.7.16/pakchunk51-WindowsNoEditor_P",
-              "09BC4AB5AB2B2868F9CBD0C04834742D60D5DE07"
+              "Resource/3.7.17/pakchunk51-WindowsNoEditor_P",
+              "74AD982F3792614B8CB2643E5A1A2F509B811DDE"
             ],
             [
-              "Resource/3.7.16/pakchunk52-WindowsNoEditor_P",
-              "4F9880D31A27F7C8E2685329F7573E5F546E0132"
+              "Resource/3.7.17/pakchunk52-WindowsNoEditor_P",
+              "4B96EAFF90FED4940941A453F3C8D515D8E9ED15"
             ],
             [
-              "Resource/3.7.16/pakchunk53-WindowsNoEditor_P",
-              "0F2DDCE76838B66D6953D1218CBDDBD807EAD858"
+              "Resource/3.7.17/pakchunk53-WindowsNoEditor_P",
+              "EDAB1FE3849BC1602AC0F217F4C8A7C3CE2C8624"
             ],
             [
-              "Resource/3.7.16/pakchunk54-WindowsNoEditor_P",
-              "69C623B467D598A0A3F08E3A51A5A9A2AB8F26E2"
+              "Resource/3.7.17/pakchunk54-WindowsNoEditor_P",
+              "13A133EFAF4D16EA74732B11DA69E6603F18FC54"
             ],
             [
-              "Resource/3.7.16/pakchunk55-WindowsNoEditor_P",
-              "3CA8E85EF334A369F617B632B460A147A8D8D28C"
+              "Resource/3.7.17/pakchunk55-WindowsNoEditor_P",
+              "AE5084D77F18D265A2A4A641D772022149418A58"
             ],
             [
-              "Resource/3.7.16/pakchunk56-WindowsNoEditor_P",
-              "6003FD549E06C6D7025F9DE974793E2F8C8721A3"
+              "Resource/3.7.17/pakchunk56-WindowsNoEditor_P",
+              "BB2EF39CDCEF95E7BCADF5F3FA30D5DDAA9ACF4E"
             ],
             [
-              "Resource/3.7.16/pakchunk57-WindowsNoEditor_P",
-              "D000519BF027A21C1668CAAA99902036C99CA411"
+              "Resource/3.7.17/pakchunk57-WindowsNoEditor_P",
+              "6FC43DB67A7831FF03D8B733582A01C0C03E5AD6"
             ],
             [
-              "Resource/3.7.16/pakchunk6-WindowsNoEditor_P",
+              "Resource/3.7.17/pakchunk6-WindowsNoEditor_P",
               "9B2024B4DD7F36F597D93DB626EBEBE326CF6B55"
             ],
             [
-              "Resource/3.7.16/pakchunk7-WindowsNoEditor_P",
+              "Resource/3.7.17/pakchunk7-WindowsNoEditor_P",
               "B7BC0764FEC3A6B43FFE7DCA2D4C111026337FD2"
             ],
             [
-              "Resource/3.7.16/pakchunk70-WindowsNoEditor_P",
-              "92F6DA99B4B1D691073DF9683459477ECD5792A3"
+              "Resource/3.7.17/pakchunk70-WindowsNoEditor_P",
+              "09D7B8EC6963CF621B248C351252590AB32F2FA6"
             ],
             [
-              "Resource/3.7.16/pakchunk8-WindowsNoEditor_P",
-              "CBEE5575E77CDFA1B2364DAA8C804BEDD7169644"
+              "Resource/3.7.17/pakchunk8-WindowsNoEditor_P",
+              "5E2EA2E52A652D3F6CDFAD07A8D1CCE9EC94330C"
             ],
             [
-              "Resource/3.7.16/pakchunk9-WindowsNoEditor_P",
-              "597DA2FE6A70DD4A67E949F57DAB220FDB053AF8"
+              "Resource/3.7.17/pakchunk9-WindowsNoEditor_P",
+              "214EA75ADB32D3C66DBB2BBE838419C9E1EB7D8B"
             ]
           ]
         },
-        "url": "https://github.com/ultra1magnus1/wuwa-ru/releases/download/tr-20261025-185518-3d3b/translation.pak"
+        "url": "https://github.com/ultra1magnus1/wuwa-ru/releases/download/tr-20261029-004507-37f3/translation.pak"
       }
     ],
     "translations": {
-      "sha256": "80ce810ed961a983ef9e21f80290fda96ceaecb12cc0ce190e80e3ee8dddb691",
-      "size": 20254808,
-      "url": "https://github.com/ultra1magnus1/wuwa-ru/releases/download/tr-20261025-185518-3d3b/translations.json.gz"
+      "sha256": "53d205baeaed7632b9fe681b23ae778b97a496c69b59b64bf39ab4309f1313e2",
+      "size": 20253821,
+      "url": "https://github.com/ultra1magnus1/wuwa-ru/releases/download/tr-20261029-004507-37f3/translations.json.gz"
     },
     "fmodel": {
       "sha256": "5722dcdb91db4eabf0b16a48f406a80cc2fb8f87a299ccf6ba58d4ff3ba77523",
@@ -450,7 +446,7 @@
       "url": "https://raw.githubusercontent.com/ultra1magnus1/wuwa-ru/main/art/3c40cc8379c43be3.jpg"
     }
   ],
-  "serial": 5,
+  "serial": 6,
   "launcher": {
     "sha256": "1eda88711f605764cb3973f70f7716c0ab03f90d86e51399ab140cbd66d9b957",
     "size": 50347951,
